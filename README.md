@@ -2,6 +2,8 @@
 
 This repository contains all of the relevant files for the LU factorization, Simpson, and False position algorithms.
 
+*NOTE* -- Ignore any ".DS_Store" files, they are not relevant to the functionality of the algorithms.
+
 #### By: Collin Elmer
 
 ## LU
